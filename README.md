@@ -8,6 +8,3 @@ The datasets included in this repository are openly provided for academic and re
 
 All original code, analyses, and written material remain the authors’ intellectual property. Any form of plagiarism or unacknowledged reuse is strictly prohibited and may lead to academic or legal consequences. If you repurpose or distribute any part of this project, proper attribution is required and all license terms must be observed.
 
-## License
-This project is licensed under the **MIT License**.
-
